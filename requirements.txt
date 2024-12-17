@@ -1,0 +1,21 @@
+torch==2.2.1
+torchvision==0.17.1
+scikit-learn==1.4.1.post1
+opencv-python==4.9.0.80
+gradio==5.0.2
+gradio_client==1.4.0
+fastapi==0.109.2
+uvicorn==0.27.1
+gdown==5.1.0
+prettytable==3.10.0
+pysocks==1.7.1
+rich==13.7.1
+shellingham==1.5.4
+colorama==0.4.6
+
+detectron2 @ git+https://github.com/facebookresearch/detectron2.git@main
+
+imgaug==0.4.0
+pytorch-msssim==1.0.0
+terminaltables==3.1.10
+torchsummary==1.5.1
